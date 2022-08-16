@@ -1,0 +1,14 @@
+.chores {
+    color: purple;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    text-align: left;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+ul {
+    font-style: italic;
+}
